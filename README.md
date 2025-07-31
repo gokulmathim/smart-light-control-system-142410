@@ -1,1 +1,3 @@
-# smart-light-control-system-142410
+# Project Repository
+
+This is the initial README file for the project.
